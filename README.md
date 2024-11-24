@@ -10,3 +10,6 @@ Características principales:
   Ejemplo de solicitud y respuesta:
       -Solicitud: GET /apiSaludos/holanombre/{nombre}/{edad}
       -Respuesta: "HOLA MUNDO!" + Orlando + "tu edad es: " + 27;
+
+
+Práctica para uso didáctico
