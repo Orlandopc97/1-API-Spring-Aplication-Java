@@ -8,7 +8,9 @@ Características principales:
   -Respuesta Personalizada: La API construye una respuesta en texto plano o JSON, saludando al usuario de forma personalizada utilizando los datos de la solicitud (nombre y edad).
 
   Ejemplo de solicitud y respuesta:
+  
       -Solicitud: GET /apiSaludos/holanombre/{nombre}/{edad}
+      
       -Respuesta: "HOLA MUNDO!" + Orlando + "tu edad es: " + 27;
 
 
